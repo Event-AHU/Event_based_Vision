@@ -2,7 +2,7 @@
 Big news about event based vision 
 
 
-### Sony AI’s Research Paper Published in International Science Journal “Nature”
+### 1. Sony AI’s Research Paper Published in International Science Journal “Nature”
 - Autonomous system “Ace” adopts Sony Semiconductor Solutions image sensors - April 23, 2026
 [[News1](https://www.sony-semicon.com/en/info/2026/2026042301.html)]
 [[News2](https://ai.sony/news/sony-ai-announces-breakthrough-research-in-real-world-artificial-intelligence-and-robotics)]
@@ -11,5 +11,10 @@ Big news about event based vision
 [[Nature Paper](https://www.nature.com/articles/s41586-026-10338-5#citeas)] 
 
 <img width="800" height="480" alt="image" src="https://github.com/user-attachments/assets/46475541-f889-42a2-bb7b-07c70f0549b5" />
+
+### 2. Event camera 结合自动驾驶领域登顶 Nature 正刊 
+D. Gehrig and D. Scaramuzza, “**Low-latency automotive vision with event cameras**,” Nature, vol. 629, no. 8014, pp. 1034–1040, 2024.  
+
+
 
 
